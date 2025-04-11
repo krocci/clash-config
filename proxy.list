@@ -16,7 +16,6 @@ DOMAIN-SUFFIX,linux.do
 DOMAIN-SUFFIX,nodeseek.com
 DOMAIN-KEYWORD,cloudflare
 DOMAIN-SUFFIX,akile.io
-DOMAIN-SUFFIX,yuphy.us.kg
 DOMAIN-SUFFIX,x.ai
 DOMAIN-KEYWORD,deepl
 DOMAIN-KEYWORD,openwrt
@@ -27,3 +26,4 @@ DOMAIN-KEYWORD,maa
 DOMAIN-KEYWORD,nexus
 DOMAIN-SUFFIX,cloudfront.net
 DOMAIN-SUFFIX,nexusmods.com
+DOMAIN-SUFFIX,curseforge.com
