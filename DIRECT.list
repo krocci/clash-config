@@ -12,11 +12,6 @@
 ##- RULE-SET,providername,PROXY #匹配规则集
 
 PROCESS-NAME,nezha-agent
-DOMAIN-KEYWORD,cyc
-DOMAIN-SUFFIX,cycani.org
-DOMAIN-SUFFIX,cycimg.me
-DOMAIN-SUFFIX,cycanime.com
-DOMAIN-SUFFIX,senhewenhua.com
 DOMAIN-KEYWORD,ncu
 DOMAIN-SUFFIX,yxvm.com
 
