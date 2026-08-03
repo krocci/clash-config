@@ -10,14 +10,7 @@
 ##- GEOSITE,category-public-tracker,DIRECT #匹配GEOSITE数据库规则(直连)
 ##- DOMAIN-REGEX,^abc.*com,PROXY #正则匹配域名
 ##- RULE-SET,providername,PROXY #匹配规则集
-DOMAIN-KEYWORD,argotunnel
-DOMAIN-SUFFIX,argotunnel.com
-SRC-PORT,7844
-DST-PORT,7844
-IP-CIDR,198.41.192.0/24
-IP-CIDR,198.41.200.0/24
 DOMAIN-SUFFIX,forgecdn.net
-DOMAIN-SUFFIX,alist.moci.my
 DOMAIN-SUFFIX,minecraft.net
 DOMAIN-SUFFIX,69yun69.com
 DOMAIN-KEYWORD,nexus
